@@ -14,4 +14,5 @@ Bot de Telegram creado en Python para gestionar GitHub usando la API<p>
 •Busqueda de usuarios y repositorios<p>
 •Descarga de repositorios<p><p>
 <h2>Uso:</h2><p>
+Cambiar en el código el usuario de GitHub y el auth_token por el vuestro<p>
 Ejecutar el script OctoBot.py en la terminal, luego abrir Telegram y abrir el bot el cual el enlace está más arriba
