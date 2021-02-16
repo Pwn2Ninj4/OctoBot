@@ -4,7 +4,7 @@ Happy Hack!!<p>
 Author: @Pwn2Ninja<
 GitHub: https://github.com/Pwn2Ninja<p>
 
-FOLLOW ME
+Link del bot
 https://t.me/Pwn2Octobot<p>
 Bot de Telegram creado en Python para gestionar GitHub usando la API<p>
 
