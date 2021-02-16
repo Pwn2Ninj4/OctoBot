@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+J#!/usr/bin/python3
 import logging
 import sys
 import signal
@@ -54,7 +54,7 @@ try:
     
     
     def start(update, context):
-        login = octo_login('Pwn2Ninja', '19fa05fed01ee89c5f50223ebf425083c42b7489')
+        login = octo_login('USER', 'GIT_TOKEN')
         login.auth()
         name_user = update.message.from_user
         update.message.reply_text("Hola {}!😃👍\nEste interesante bot🤖 está creado con el fin de que puedas gestionar GitHub facilmente😉. Usa el comando⌨️ /help para obtener más ayuda💡".format(name_user['first_name']))
