@@ -43,7 +43,7 @@ try:
     
     logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
     OctoBot_link = 'https://t.me/Pwn2Octobot'
-    token = open("Contents/telegram_token.txt").read()
+    token = "1560565164:AAEVe7fIPzwD6gd5tRJUOM6x0yMQYJtKBo8"
     text = ("{}[!]{}INITIALIZATION OCTOBOT{}\n".format(red, blue, gray))
     for h in text:
         print(h, end='')
